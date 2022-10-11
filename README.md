@@ -17,5 +17,5 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 |   dieferencai de horas entre el dia 
 
 ~~
-##eTAPA 3 dISEÑO DE LA SOLUCIONI
-![]()
+## Etapa 3 diseño de la colucion
+![](https://github.com/xXkiritsuguXx/T3A2_FUNDAMENTOS-DE-PROGRAMACION/blob/main/T3A2.png)
