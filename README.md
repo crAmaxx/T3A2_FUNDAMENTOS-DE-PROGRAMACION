@@ -14,17 +14,15 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  - Diferencia de horas del dia posterior menos el dia anterior.
 -3. Salida
 
- ~
- +------------------------------------------------------------------+
- |          DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |                                                       
- +------------------------------------------------------------------+
- | Dia Inicial: lunes                   Hora Inicial:10             |                
- | Dia Final: viernes                   Hora Final: 16              |                     
- +------------------------------------------------------------------+
- | Entre las 10hrs del lunes y las 16 hrs del miercoles hay 54 horas|                                                                
- |                                                                  |
- +------------------------------------------------------------------+
+      DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO                                                           
 
-~~
+  Dia Inicial: lunes                  
+  Dia Final: viernes
+  
+  Hora Inicial:10                                            
+  Hora Final: 16                                  
+
+ Entre las 10hrs del lunes y las 16 hrs del miercoles hay 54 horas                                                                                                                        
+
 ## Etapa 3 diseño de la solucion
 ![](https://github.com/xXkiritsuguXx/T3A2_FUNDAMENTOS-DE-PROGRAMACION/blob/main/T3A2.png)
